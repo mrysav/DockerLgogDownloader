@@ -1,0 +1,3 @@
+[submodule "lgogdownloader"]
+	path = lgogdownloader
+	url = https://github.com/Sude-/lgogdownloader.git
